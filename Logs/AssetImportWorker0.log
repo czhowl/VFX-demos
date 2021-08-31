@@ -1,0 +1,1052 @@
+Using pre-set license
+Built from '2020.3/release' branch; Version is '2020.3.7f1 (dd97f2c94397) revision 14522354'; Using compiler version '192528614'; Build Type 'Release'
+OS: 'Windows 10 Pro; OS build 19043.1165; Version 2009; 64bit' Language: 'en' Physical Memory: 32682 MB
+BatchMode: 1, IsHumanControllingUs: 0, StartBugReporterOnCrash: 0, Is64bit: 1, IsPro: 0
+
+ COMMAND LINE ARGUMENTS:
+C:\Program Files\Unity\Hub\Editor\2020.3.7f1\Editor\Unity.exe
+-adb2
+-batchMode
+-noUpm
+-name
+AssetImportWorker0
+-projectPath
+C:/Users/czhhz/Documents/source/repos/VFX-demos
+-logFile
+Logs/AssetImportWorker0.log
+-srvPort
+57136
+Successfully changed project path to: C:/Users/czhhz/Documents/source/repos/VFX-demos
+C:/Users/czhhz/Documents/source/repos/VFX-demos
+Using Asset Import Pipeline V2.
+Refreshing native plugins compatible for Editor in 46.32 ms, found 0 plugins.
+Preloading 0 native plugins for Editor in 0.00 ms.
+Initialize engine version: 2020.3.7f1 (dd97f2c94397)
+[Subsystems] Discovering subsystems at path C:/Program Files/Unity/Hub/Editor/2020.3.7f1/Editor/Data/Resources/UnitySubsystems
+[Subsystems] Discovering subsystems at path C:/Users/czhhz/Documents/source/repos/VFX-demos/Assets
+GfxDevice: creating device client; threaded=0
+Direct3D:
+    Version:  Direct3D 11.0 [level 11.1]
+    Renderer: NVIDIA GeForce RTX 3090 (ID=0x2204)
+    Vendor:   
+    VRAM:     24348 MB
+    Driver:   30.0.14.7168
+Initialize mono
+Mono path[0] = 'C:/Program Files/Unity/Hub/Editor/2020.3.7f1/Editor/Data/Managed'
+Mono path[1] = 'C:/Program Files/Unity/Hub/Editor/2020.3.7f1/Editor/Data/MonoBleedingEdge/lib/mono/unityjit'
+Mono config path = 'C:/Program Files/Unity/Hub/Editor/2020.3.7f1/Editor/Data/MonoBleedingEdge/etc'
+Using monoOptions --debugger-agent=transport=dt_socket,embedding=1,server=y,suspend=n,address=127.0.0.1:56852
+Begin MonoManager ReloadAssembly
+Registering precompiled unity dll's ...
+Register platform support module: C:/Program Files/Unity/Hub/Editor/2020.3.7f1/Editor/Data/PlaybackEngines/WindowsStandaloneSupport/UnityEditor.WindowsStandalone.Extensions.dll
+Registered in 0.003562 seconds.
+Native extension for WindowsStandalone target not found
+Refreshing native plugins compatible for Editor in 55.73 ms, found 0 plugins.
+Preloading 0 native plugins for Editor in 0.00 ms.
+Mono: successfully reloaded assembly
+- Completed reload, in  0.988 seconds
+Platform modules already initialized, skipping
+Registering precompiled user dll's ...
+Registered in 0.001680 seconds.
+Begin MonoManager ReloadAssembly
+Native extension for WindowsStandalone target not found
+Refreshing native plugins compatible for Editor in 58.26 ms, found 0 plugins.
+Preloading 0 native plugins for Editor in 0.00 ms.
+Mono: successfully reloaded assembly
+- Completed reload, in  1.064 seconds
+Platform modules already initialized, skipping
+========================================================================
+Worker process is ready to serve import requests
+Launched and connected shader compiler UnityShaderCompiler.exe after 0.05 seconds
+Refreshing native plugins compatible for Editor in 0.55 ms, found 0 plugins.
+Preloading 0 native plugins for Editor in 0.00 ms.
+Unloading 3499 Unused Serialized files (Serialized files now loaded: 0)
+System memory in use before: 173.1 MB.
+System memory in use after: 172.8 MB.
+
+Unloading 28 unused Assets to reduce memory usage. Loaded Objects now: 3957.
+Total: 2.187400 ms (FindLiveObjects: 0.258100 ms CreateObjectMapping: 0.075600 ms MarkObjects: 1.650500 ms  DeleteObjects: 0.202400 ms)
+
+========================================================================
+Received Import Request.
+  path: Assets/VFX Demos/Fireworks.vfx
+  artifactKey: Guid(96ca0b8a9c0f5c948b096dabf520dec3) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/VFX Demos/Fireworks.vfx using Guid(96ca0b8a9c0f5c948b096dabf520dec3) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: 'b40ef44e0c9b5fd73bf34a71df6e8f8d') in 0.037867 seconds
+  Import took 0.042628 seconds .
+
+========================================================================
+Received Import Request.
+  Time since last request: 0.000197 seconds.
+  path: Assets/VFX Demos/Strip.vfx
+  artifactKey: Guid(8face59603f62c64788e1686f2780668) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/VFX Demos/Strip.vfx using Guid(8face59603f62c64788e1686f2780668) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '5fa9cb22f0afd83da40e0d8bb7eb7dfb') in 0.006432 seconds
+  Import took 0.009711 seconds .
+
+========================================================================
+Received Import Request.
+  Time since last request: 21.544244 seconds.
+  path: Assets/VFX Demos/Fireworks.vfx
+  artifactKey: Guid(96ca0b8a9c0f5c948b096dabf520dec3) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/VFX Demos/Fireworks.vfx using Guid(96ca0b8a9c0f5c948b096dabf520dec3) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: 'a8b2de8a5459e778118712d4a14ce2ae') in 0.004325 seconds
+  Import took 0.008827 seconds .
+
+========================================================================
+Received Import Request.
+  Time since last request: 0.000133 seconds.
+  path: Assets/VFX Demos/GlowingSmoke.vfx
+  artifactKey: Guid(d98d045cd951d4343adb42f8d86be399) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/VFX Demos/GlowingSmoke.vfx using Guid(d98d045cd951d4343adb42f8d86be399) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '36979bcb0ff836ba9be5fc60e4785bf8') in 0.005411 seconds
+  Import took 0.009320 seconds .
+
+========================================================================
+Received Import Request.
+  Time since last request: 64.412345 seconds.
+  path: Assets/VFX Demos/GlowingSmoke.vfx
+  artifactKey: Guid(d98d045cd951d4343adb42f8d86be399) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/VFX Demos/GlowingSmoke.vfx using Guid(d98d045cd951d4343adb42f8d86be399) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '888a8c35e0f641779e135776e9b51ab2') in 0.003601 seconds
+  Import took 0.008423 seconds .
+
+========================================================================
+Received Import Request.
+  Time since last request: 0.000145 seconds.
+  path: Assets/VFX Demos/Grid.vfx
+  artifactKey: Guid(c8a5f092146ef7b458b07076276e9bfc) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/VFX Demos/Grid.vfx using Guid(c8a5f092146ef7b458b07076276e9bfc) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: 'fc6151dd5792a31dc8abdaaff9c59938') in 0.007091 seconds
+  Import took 0.011337 seconds .
+
+========================================================================
+Received Import Request.
+  Time since last request: 37.628206 seconds.
+  path: Assets/VFX Demos/Grid.vfx
+  artifactKey: Guid(c8a5f092146ef7b458b07076276e9bfc) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/VFX Demos/Grid.vfx using Guid(c8a5f092146ef7b458b07076276e9bfc) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '690e5059e1a8fbc457766c5f9108bed7') in 0.004231 seconds
+  Import took 0.009101 seconds .
+
+========================================================================
+Received Import Request.
+  Time since last request: 18.428752 seconds.
+  path: Assets/VFX Demos/Grid.vfx
+  artifactKey: Guid(c8a5f092146ef7b458b07076276e9bfc) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/VFX Demos/Grid.vfx using Guid(c8a5f092146ef7b458b07076276e9bfc) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: 'dd8425c846268bd578efac605b0ec2ea') in 0.003981 seconds
+  Import took 0.008862 seconds .
+
+========================================================================
+Received Import Request.
+  Time since last request: 1.879800 seconds.
+  path: Assets/VFX Demos/Grid.vfx
+  artifactKey: Guid(c8a5f092146ef7b458b07076276e9bfc) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/VFX Demos/Grid.vfx using Guid(c8a5f092146ef7b458b07076276e9bfc) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: 'c557a01069c0e97c16de1e79b433820a') in 0.003710 seconds
+  Import took 0.007833 seconds .
+
+========================================================================
+Received Import Request.
+  Time since last request: 4.899714 seconds.
+  path: Assets/VFX Demos/Grid.vfx
+  artifactKey: Guid(c8a5f092146ef7b458b07076276e9bfc) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/VFX Demos/Grid.vfx using Guid(c8a5f092146ef7b458b07076276e9bfc) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '16571cf3cfa2550a024bc1d6cceebab8') in 0.003941 seconds
+  Import took 0.008191 seconds .
+
+========================================================================
+Received Import Request.
+  Time since last request: 25.665747 seconds.
+  path: Assets/VFX Demos/Grid.vfx
+  artifactKey: Guid(c8a5f092146ef7b458b07076276e9bfc) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/VFX Demos/Grid.vfx using Guid(c8a5f092146ef7b458b07076276e9bfc) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '793765e785ac1b320992dd9f69820ab3') in 0.004036 seconds
+  Import took 0.008666 seconds .
+
+========================================================================
+Received Import Request.
+  Time since last request: 0.026376 seconds.
+  path: Assets/VFX Demos/Grid.vfx
+  artifactKey: Guid(c8a5f092146ef7b458b07076276e9bfc) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/VFX Demos/Grid.vfx using Guid(c8a5f092146ef7b458b07076276e9bfc) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '793765e785ac1b320992dd9f69820ab3') in 0.003566 seconds
+  Import took 0.007828 seconds .
+
+========================================================================
+Received Import Request.
+  Time since last request: 4.418481 seconds.
+  path: Assets/VFX Demos/Grid.vfx
+  artifactKey: Guid(c8a5f092146ef7b458b07076276e9bfc) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/VFX Demos/Grid.vfx using Guid(c8a5f092146ef7b458b07076276e9bfc) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '857f2c48aeba0b13ed06693f83ba40f4') in 0.003934 seconds
+  Import took 0.008462 seconds .
+
+========================================================================
+Received Import Request.
+  Time since last request: 16.349224 seconds.
+  path: Assets/VFX Demos/Grid.vfx
+  artifactKey: Guid(c8a5f092146ef7b458b07076276e9bfc) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/VFX Demos/Grid.vfx using Guid(c8a5f092146ef7b458b07076276e9bfc) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '11780f14c1883716adec0e4927290002') in 0.003834 seconds
+  Import took 0.008508 seconds .
+
+========================================================================
+Received Import Request.
+  Time since last request: 7.754579 seconds.
+  path: Assets/VFX Demos/Grid.vfx
+  artifactKey: Guid(c8a5f092146ef7b458b07076276e9bfc) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/VFX Demos/Grid.vfx using Guid(c8a5f092146ef7b458b07076276e9bfc) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '9f7633f7be8cc3c56d0ad528d81a412d') in 0.003831 seconds
+  Import took 0.008675 seconds .
+
+========================================================================
+Received Import Request.
+  Time since last request: 0.580508 seconds.
+  path: Assets/VFX Demos/Grid.vfx
+  artifactKey: Guid(c8a5f092146ef7b458b07076276e9bfc) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/VFX Demos/Grid.vfx using Guid(c8a5f092146ef7b458b07076276e9bfc) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '88480ad2aca8221e13c7458bfd77bb81') in 0.003947 seconds
+  Import took 0.007939 seconds .
+
+========================================================================
+Received Import Request.
+  Time since last request: 0.004078 seconds.
+  path: Assets/VFX Demos/Grid.vfx
+  artifactKey: Guid(c8a5f092146ef7b458b07076276e9bfc) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/VFX Demos/Grid.vfx using Guid(c8a5f092146ef7b458b07076276e9bfc) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '88480ad2aca8221e13c7458bfd77bb81') in 0.003413 seconds
+  Import took 0.007945 seconds .
+
+========================================================================
+Received Import Request.
+  Time since last request: 78.267912 seconds.
+  path: Assets/VFX Demos/Grid.vfx
+  artifactKey: Guid(c8a5f092146ef7b458b07076276e9bfc) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/VFX Demos/Grid.vfx using Guid(c8a5f092146ef7b458b07076276e9bfc) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: 'c98966dac43c66844fe91808e01a7e4c') in 0.004453 seconds
+  Import took 0.008766 seconds .
+
+========================================================================
+Received Import Request.
+  Time since last request: 0.003071 seconds.
+  path: Assets/VFX Demos/Grid.vfx
+  artifactKey: Guid(c8a5f092146ef7b458b07076276e9bfc) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/VFX Demos/Grid.vfx using Guid(c8a5f092146ef7b458b07076276e9bfc) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: 'c98966dac43c66844fe91808e01a7e4c') in 0.003555 seconds
+  Import took 0.006948 seconds .
+
+========================================================================
+Received Import Request.
+  Time since last request: 16.741669 seconds.
+  path: Assets/VFX Demos/Grid.vfx
+  artifactKey: Guid(c8a5f092146ef7b458b07076276e9bfc) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/VFX Demos/Grid.vfx using Guid(c8a5f092146ef7b458b07076276e9bfc) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: 'd32225cc434a664cfbed90f177c705b4') in 0.003793 seconds
+  Import took 0.008214 seconds .
+
+========================================================================
+Received Import Request.
+  Time since last request: 0.003386 seconds.
+  path: Assets/VFX Demos/Grid.vfx
+  artifactKey: Guid(c8a5f092146ef7b458b07076276e9bfc) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/VFX Demos/Grid.vfx using Guid(c8a5f092146ef7b458b07076276e9bfc) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: 'd32225cc434a664cfbed90f177c705b4') in 0.003789 seconds
+  Import took 0.007883 seconds .
+
+========================================================================
+Received Import Request.
+  Time since last request: 15.553674 seconds.
+  path: Assets/VFX Demos/Grid.vfx
+  artifactKey: Guid(c8a5f092146ef7b458b07076276e9bfc) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/VFX Demos/Grid.vfx using Guid(c8a5f092146ef7b458b07076276e9bfc) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '0db57efe8a408859371096441703fe95') in 0.003632 seconds
+  Import took 0.008244 seconds .
+
+========================================================================
+Received Import Request.
+  Time since last request: 0.003721 seconds.
+  path: Assets/VFX Demos/Grid.vfx
+  artifactKey: Guid(c8a5f092146ef7b458b07076276e9bfc) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/VFX Demos/Grid.vfx using Guid(c8a5f092146ef7b458b07076276e9bfc) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '0db57efe8a408859371096441703fe95') in 0.003405 seconds
+  Import took 0.007584 seconds .
+
+========================================================================
+Received Import Request.
+  Time since last request: 37.660108 seconds.
+  path: Assets/VFX Demos/Grid.vfx
+  artifactKey: Guid(c8a5f092146ef7b458b07076276e9bfc) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/VFX Demos/Grid.vfx using Guid(c8a5f092146ef7b458b07076276e9bfc) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '2abe510d58b24170b2adabdd70010b07') in 0.004394 seconds
+  Import took 0.008791 seconds .
+
+========================================================================
+Received Import Request.
+  Time since last request: 0.003596 seconds.
+  path: Assets/VFX Demos/Grid.vfx
+  artifactKey: Guid(c8a5f092146ef7b458b07076276e9bfc) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/VFX Demos/Grid.vfx using Guid(c8a5f092146ef7b458b07076276e9bfc) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '2abe510d58b24170b2adabdd70010b07') in 0.003655 seconds
+  Import took 0.007280 seconds .
+
+========================================================================
+Received Import Request.
+  Time since last request: 7.230915 seconds.
+  path: Assets/VFX Demos/Grid.vfx
+  artifactKey: Guid(c8a5f092146ef7b458b07076276e9bfc) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/VFX Demos/Grid.vfx using Guid(c8a5f092146ef7b458b07076276e9bfc) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '2e78758c8e27475e1cba883dff9c6ec0') in 0.003590 seconds
+  Import took 0.007911 seconds .
+
+========================================================================
+Received Import Request.
+  Time since last request: 0.004508 seconds.
+  path: Assets/VFX Demos/Grid.vfx
+  artifactKey: Guid(c8a5f092146ef7b458b07076276e9bfc) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/VFX Demos/Grid.vfx using Guid(c8a5f092146ef7b458b07076276e9bfc) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '2e78758c8e27475e1cba883dff9c6ec0') in 0.003488 seconds
+  Import took 0.007772 seconds .
+
+========================================================================
+Received Import Request.
+  Time since last request: 5.876367 seconds.
+  path: Assets/VFX Demos/Grid.vfx
+  artifactKey: Guid(c8a5f092146ef7b458b07076276e9bfc) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/VFX Demos/Grid.vfx using Guid(c8a5f092146ef7b458b07076276e9bfc) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: 'c4052880bfc4b367460fcc57c0440310') in 0.003712 seconds
+  Import took 0.008396 seconds .
+
+========================================================================
+Received Import Request.
+  Time since last request: 0.004829 seconds.
+  path: Assets/VFX Demos/Grid.vfx
+  artifactKey: Guid(c8a5f092146ef7b458b07076276e9bfc) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/VFX Demos/Grid.vfx using Guid(c8a5f092146ef7b458b07076276e9bfc) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: 'c4052880bfc4b367460fcc57c0440310') in 0.003642 seconds
+  Import took 0.007767 seconds .
+
+========================================================================
+Received Import Request.
+  Time since last request: 17.273904 seconds.
+  path: Assets/VFX Demos/Grid.vfx
+  artifactKey: Guid(c8a5f092146ef7b458b07076276e9bfc) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/VFX Demos/Grid.vfx using Guid(c8a5f092146ef7b458b07076276e9bfc) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '12cc6c491a2ab240866411b1a017d571') in 0.003685 seconds
+  Import took 0.007796 seconds .
+
+========================================================================
+Received Import Request.
+  Time since last request: 0.002419 seconds.
+  path: Assets/VFX Demos/Grid.vfx
+  artifactKey: Guid(c8a5f092146ef7b458b07076276e9bfc) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/VFX Demos/Grid.vfx using Guid(c8a5f092146ef7b458b07076276e9bfc) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '12cc6c491a2ab240866411b1a017d571') in 0.003061 seconds
+  Import took 0.006064 seconds .
+
+========================================================================
+Received Import Request.
+  Time since last request: 3.080764 seconds.
+  path: Assets/VFX Demos/Grid.vfx
+  artifactKey: Guid(c8a5f092146ef7b458b07076276e9bfc) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/VFX Demos/Grid.vfx using Guid(c8a5f092146ef7b458b07076276e9bfc) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: 'ce3d4ecf52a8289d8316cbf8a807b603') in 0.004487 seconds
+  Import took 0.009447 seconds .
+
+========================================================================
+Received Import Request.
+  Time since last request: 0.003330 seconds.
+  path: Assets/VFX Demos/Grid.vfx
+  artifactKey: Guid(c8a5f092146ef7b458b07076276e9bfc) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/VFX Demos/Grid.vfx using Guid(c8a5f092146ef7b458b07076276e9bfc) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: 'ce3d4ecf52a8289d8316cbf8a807b603') in 0.003552 seconds
+  Import took 0.007892 seconds .
+
+========================================================================
+Received Import Request.
+  Time since last request: 2.131071 seconds.
+  path: Assets/VFX Demos/Grid.vfx
+  artifactKey: Guid(c8a5f092146ef7b458b07076276e9bfc) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/VFX Demos/Grid.vfx using Guid(c8a5f092146ef7b458b07076276e9bfc) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '8a253051aa67d4a7c6cdc85e1a90fea1') in 0.003533 seconds
+  Import took 0.007839 seconds .
+
+========================================================================
+Received Import Request.
+  Time since last request: 0.002985 seconds.
+  path: Assets/VFX Demos/Grid.vfx
+  artifactKey: Guid(c8a5f092146ef7b458b07076276e9bfc) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/VFX Demos/Grid.vfx using Guid(c8a5f092146ef7b458b07076276e9bfc) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '8a253051aa67d4a7c6cdc85e1a90fea1') in 0.003835 seconds
+  Import took 0.008209 seconds .
+
+========================================================================
+Received Import Request.
+  Time since last request: 3.127774 seconds.
+  path: Assets/VFX Demos/Grid.vfx
+  artifactKey: Guid(c8a5f092146ef7b458b07076276e9bfc) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/VFX Demos/Grid.vfx using Guid(c8a5f092146ef7b458b07076276e9bfc) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '9fcaf3c5e40b1e3fb412fb8f5a76c600') in 0.004087 seconds
+  Import took 0.008816 seconds .
+
+========================================================================
+Received Import Request.
+  Time since last request: 0.003766 seconds.
+  path: Assets/VFX Demos/Grid.vfx
+  artifactKey: Guid(c8a5f092146ef7b458b07076276e9bfc) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/VFX Demos/Grid.vfx using Guid(c8a5f092146ef7b458b07076276e9bfc) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '9fcaf3c5e40b1e3fb412fb8f5a76c600') in 0.003403 seconds
+  Import took 0.007567 seconds .
+
+========================================================================
+Received Import Request.
+  Time since last request: 4.524332 seconds.
+  path: Assets/VFX Demos/Grid.vfx
+  artifactKey: Guid(c8a5f092146ef7b458b07076276e9bfc) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/VFX Demos/Grid.vfx using Guid(c8a5f092146ef7b458b07076276e9bfc) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: 'b3bd753dad57ba8b93f05a1b8338dba7') in 0.003534 seconds
+  Import took 0.008036 seconds .
+
+========================================================================
+Received Import Request.
+  Time since last request: 0.003931 seconds.
+  path: Assets/VFX Demos/Grid.vfx
+  artifactKey: Guid(c8a5f092146ef7b458b07076276e9bfc) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/VFX Demos/Grid.vfx using Guid(c8a5f092146ef7b458b07076276e9bfc) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: 'b3bd753dad57ba8b93f05a1b8338dba7') in 0.003326 seconds
+  Import took 0.007379 seconds .
+
+========================================================================
+Received Import Request.
+  Time since last request: 3.220842 seconds.
+  path: Assets/VFX Demos/Grid.vfx
+  artifactKey: Guid(c8a5f092146ef7b458b07076276e9bfc) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/VFX Demos/Grid.vfx using Guid(c8a5f092146ef7b458b07076276e9bfc) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: 'd9c76a53e9e3052c0b506314aa11c057') in 0.003685 seconds
+  Import took 0.008173 seconds .
+
+========================================================================
+Received Import Request.
+  Time since last request: 0.004246 seconds.
+  path: Assets/VFX Demos/Grid.vfx
+  artifactKey: Guid(c8a5f092146ef7b458b07076276e9bfc) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/VFX Demos/Grid.vfx using Guid(c8a5f092146ef7b458b07076276e9bfc) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: 'd9c76a53e9e3052c0b506314aa11c057') in 0.003378 seconds
+  Import took 0.006629 seconds .
+
+========================================================================
+Received Import Request.
+  Time since last request: 4.926475 seconds.
+  path: Assets/VFX Demos/Grid.vfx
+  artifactKey: Guid(c8a5f092146ef7b458b07076276e9bfc) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/VFX Demos/Grid.vfx using Guid(c8a5f092146ef7b458b07076276e9bfc) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: 'b873a3026e3137f89a2cfaa2c21ce628') in 0.003753 seconds
+  Import took 0.008340 seconds .
+
+========================================================================
+Received Import Request.
+  Time since last request: 0.003116 seconds.
+  path: Assets/VFX Demos/Grid.vfx
+  artifactKey: Guid(c8a5f092146ef7b458b07076276e9bfc) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/VFX Demos/Grid.vfx using Guid(c8a5f092146ef7b458b07076276e9bfc) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: 'b873a3026e3137f89a2cfaa2c21ce628') in 0.003457 seconds
+  Import took 0.007357 seconds .
+
+========================================================================
+Received Import Request.
+  Time since last request: 91.397983 seconds.
+  path: Assets/VFX Demos/Grid.vfx
+  artifactKey: Guid(c8a5f092146ef7b458b07076276e9bfc) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/VFX Demos/Grid.vfx using Guid(c8a5f092146ef7b458b07076276e9bfc) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: 'ce9ffd7da58cbae5519ec98487e1c51d') in 0.003815 seconds
+  Import took 0.008495 seconds .
+
+========================================================================
+Received Import Request.
+  Time since last request: 11.340788 seconds.
+  path: Assets/VFX Demos/Grid.vfx
+  artifactKey: Guid(c8a5f092146ef7b458b07076276e9bfc) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/VFX Demos/Grid.vfx using Guid(c8a5f092146ef7b458b07076276e9bfc) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '4f94b54ef52e4f4981b9c06a51c6a5e6') in 0.004020 seconds
+  Import took 0.008802 seconds .
+
+========================================================================
+Received Import Request.
+  Time since last request: 0.003217 seconds.
+  path: Assets/VFX Demos/Grid.vfx
+  artifactKey: Guid(c8a5f092146ef7b458b07076276e9bfc) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/VFX Demos/Grid.vfx using Guid(c8a5f092146ef7b458b07076276e9bfc) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '4f94b54ef52e4f4981b9c06a51c6a5e6') in 0.004008 seconds
+  Import took 0.008320 seconds .
+
+========================================================================
+Received Import Request.
+  Time since last request: 25.867550 seconds.
+  path: Assets/VFX Demos/Grid.vfx
+  artifactKey: Guid(c8a5f092146ef7b458b07076276e9bfc) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/VFX Demos/Grid.vfx using Guid(c8a5f092146ef7b458b07076276e9bfc) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: 'bd3f4b57cb404389dd4217f4695b917f') in 0.003464 seconds
+  Import took 0.008152 seconds .
+
+========================================================================
+Received Import Request.
+  Time since last request: 0.002612 seconds.
+  path: Assets/VFX Demos/Grid.vfx
+  artifactKey: Guid(c8a5f092146ef7b458b07076276e9bfc) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/VFX Demos/Grid.vfx using Guid(c8a5f092146ef7b458b07076276e9bfc) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: 'bd3f4b57cb404389dd4217f4695b917f') in 0.003422 seconds
+  Import took 0.007261 seconds .
+
+========================================================================
+Received Import Request.
+  Time since last request: 12.200196 seconds.
+  path: Assets/VFX Demos/Grid.vfx
+  artifactKey: Guid(c8a5f092146ef7b458b07076276e9bfc) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/VFX Demos/Grid.vfx using Guid(c8a5f092146ef7b458b07076276e9bfc) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: 'c4382668080f7cead821e53df69bdbe6') in 0.003792 seconds
+  Import took 0.008789 seconds .
+
+========================================================================
+Received Import Request.
+  Time since last request: 120.346915 seconds.
+  path: Assets/VFX Demos/Grid.vfx
+  artifactKey: Guid(c8a5f092146ef7b458b07076276e9bfc) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/VFX Demos/Grid.vfx using Guid(c8a5f092146ef7b458b07076276e9bfc) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '8eac2277916b437cab31abc6791cabbe') in 0.004110 seconds
+  Import took 0.008974 seconds .
+
+========================================================================
+Received Import Request.
+  Time since last request: 0.003772 seconds.
+  path: Assets/VFX Demos/Grid.vfx
+  artifactKey: Guid(c8a5f092146ef7b458b07076276e9bfc) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/VFX Demos/Grid.vfx using Guid(c8a5f092146ef7b458b07076276e9bfc) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '8eac2277916b437cab31abc6791cabbe') in 0.003436 seconds
+  Import took 0.007603 seconds .
+
+========================================================================
+Received Import Request.
+  Time since last request: 1.243158 seconds.
+  path: Assets/VFX Demos/Grid.vfx
+  artifactKey: Guid(c8a5f092146ef7b458b07076276e9bfc) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/VFX Demos/Grid.vfx using Guid(c8a5f092146ef7b458b07076276e9bfc) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '455ace4380c21eda4fe624c0bf75955b') in 0.004040 seconds
+  Import took 0.008723 seconds .
+
+========================================================================
+Received Import Request.
+  Time since last request: 0.002535 seconds.
+  path: Assets/VFX Demos/Grid.vfx
+  artifactKey: Guid(c8a5f092146ef7b458b07076276e9bfc) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/VFX Demos/Grid.vfx using Guid(c8a5f092146ef7b458b07076276e9bfc) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '455ace4380c21eda4fe624c0bf75955b') in 0.003629 seconds
+  Import took 0.008018 seconds .
+
+========================================================================
+Received Import Request.
+  Time since last request: 69.264397 seconds.
+  path: Assets/VFX Demos/Grid.vfx
+  artifactKey: Guid(c8a5f092146ef7b458b07076276e9bfc) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/VFX Demos/Grid.vfx using Guid(c8a5f092146ef7b458b07076276e9bfc) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '779676c2f3388d5c88aeb2444c3434f4') in 0.003616 seconds
+  Import took 0.007649 seconds .
+
+========================================================================
+Received Import Request.
+  Time since last request: 0.003626 seconds.
+  path: Assets/VFX Demos/Grid.vfx
+  artifactKey: Guid(c8a5f092146ef7b458b07076276e9bfc) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/VFX Demos/Grid.vfx using Guid(c8a5f092146ef7b458b07076276e9bfc) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '779676c2f3388d5c88aeb2444c3434f4') in 0.003543 seconds
+  Import took 0.007068 seconds .
+
+========================================================================
+Received Import Request.
+  Time since last request: 31.317912 seconds.
+  path: Assets/VFX Demos/Grid.vfx
+  artifactKey: Guid(c8a5f092146ef7b458b07076276e9bfc) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/VFX Demos/Grid.vfx using Guid(c8a5f092146ef7b458b07076276e9bfc) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '927088d035cee0f4e898a02661601d22') in 0.003827 seconds
+  Import took 0.008084 seconds .
+
+========================================================================
+Received Import Request.
+  Time since last request: 0.004752 seconds.
+  path: Assets/VFX Demos/Grid.vfx
+  artifactKey: Guid(c8a5f092146ef7b458b07076276e9bfc) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/VFX Demos/Grid.vfx using Guid(c8a5f092146ef7b458b07076276e9bfc) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '927088d035cee0f4e898a02661601d22') in 0.003649 seconds
+  Import took 0.007118 seconds .
+
+========================================================================
+Received Import Request.
+  Time since last request: 7.607165 seconds.
+  path: Assets/VFX Demos/Grid.vfx
+  artifactKey: Guid(c8a5f092146ef7b458b07076276e9bfc) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/VFX Demos/Grid.vfx using Guid(c8a5f092146ef7b458b07076276e9bfc) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '97a16b5e045a08f3dd727c322202a613') in 0.003792 seconds
+  Import took 0.008291 seconds .
+
+========================================================================
+Received Import Request.
+  Time since last request: 0.003451 seconds.
+  path: Assets/VFX Demos/Grid.vfx
+  artifactKey: Guid(c8a5f092146ef7b458b07076276e9bfc) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/VFX Demos/Grid.vfx using Guid(c8a5f092146ef7b458b07076276e9bfc) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '97a16b5e045a08f3dd727c322202a613') in 0.003384 seconds
+  Import took 0.006682 seconds .
+
+========================================================================
+Received Import Request.
+  Time since last request: 13.211821 seconds.
+  path: Assets/VFX Demos/Grid.vfx
+  artifactKey: Guid(c8a5f092146ef7b458b07076276e9bfc) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/VFX Demos/Grid.vfx using Guid(c8a5f092146ef7b458b07076276e9bfc) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: 'b3ed6f05be15c8109df958cf304c9fd0') in 0.003985 seconds
+  Import took 0.008795 seconds .
+
+========================================================================
+Received Import Request.
+  Time since last request: 0.004587 seconds.
+  path: Assets/VFX Demos/Grid.vfx
+  artifactKey: Guid(c8a5f092146ef7b458b07076276e9bfc) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/VFX Demos/Grid.vfx using Guid(c8a5f092146ef7b458b07076276e9bfc) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: 'b3ed6f05be15c8109df958cf304c9fd0') in 0.003670 seconds
+  Import took 0.007911 seconds .
+
+========================================================================
+Received Import Request.
+  Time since last request: 2.238312 seconds.
+  path: Assets/VFX Demos/Grid.vfx
+  artifactKey: Guid(c8a5f092146ef7b458b07076276e9bfc) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/VFX Demos/Grid.vfx using Guid(c8a5f092146ef7b458b07076276e9bfc) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: 'b625aa09f156fc490a9f947782687d8c') in 0.003527 seconds
+  Import took 0.007645 seconds .
+
+========================================================================
+Received Import Request.
+  Time since last request: 0.005955 seconds.
+  path: Assets/VFX Demos/Grid.vfx
+  artifactKey: Guid(c8a5f092146ef7b458b07076276e9bfc) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/VFX Demos/Grid.vfx using Guid(c8a5f092146ef7b458b07076276e9bfc) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: 'b625aa09f156fc490a9f947782687d8c') in 0.003642 seconds
+  Import took 0.008007 seconds .
+
+========================================================================
+Received Import Request.
+  Time since last request: 2.007957 seconds.
+  path: Assets/VFX Demos/Grid.vfx
+  artifactKey: Guid(c8a5f092146ef7b458b07076276e9bfc) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/VFX Demos/Grid.vfx using Guid(c8a5f092146ef7b458b07076276e9bfc) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '3317781dedf19f6e1babba21d4bd6e2d') in 0.003627 seconds
+  Import took 0.008292 seconds .
+
+========================================================================
+Received Import Request.
+  Time since last request: 0.002251 seconds.
+  path: Assets/VFX Demos/Grid.vfx
+  artifactKey: Guid(c8a5f092146ef7b458b07076276e9bfc) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/VFX Demos/Grid.vfx using Guid(c8a5f092146ef7b458b07076276e9bfc) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '3317781dedf19f6e1babba21d4bd6e2d') in 0.003338 seconds
+  Import took 0.007472 seconds .
+
+========================================================================
+Received Import Request.
+  Time since last request: 13.439948 seconds.
+  path: Assets/VFX Demos/Grid.vfx
+  artifactKey: Guid(c8a5f092146ef7b458b07076276e9bfc) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/VFX Demos/Grid.vfx using Guid(c8a5f092146ef7b458b07076276e9bfc) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '464f6e5de512870903194ef52080de01') in 0.004043 seconds
+  Import took 0.008903 seconds .
+
+========================================================================
+Received Import Request.
+  Time since last request: 0.003572 seconds.
+  path: Assets/VFX Demos/Grid.vfx
+  artifactKey: Guid(c8a5f092146ef7b458b07076276e9bfc) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/VFX Demos/Grid.vfx using Guid(c8a5f092146ef7b458b07076276e9bfc) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '464f6e5de512870903194ef52080de01') in 0.003404 seconds
+  Import took 0.007406 seconds .
+
+========================================================================
+Received Import Request.
+  Time since last request: 76.340700 seconds.
+  path: Assets/VFX Demos/Grid.vfx
+  artifactKey: Guid(c8a5f092146ef7b458b07076276e9bfc) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/VFX Demos/Grid.vfx using Guid(c8a5f092146ef7b458b07076276e9bfc) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '235dc83f934666f0d794ca960a21c955') in 0.003789 seconds
+  Import took 0.008543 seconds .
+
+========================================================================
+Received Import Request.
+  Time since last request: 0.001349 seconds.
+  path: Assets/VFX Demos/Grid.vfx
+  artifactKey: Guid(c8a5f092146ef7b458b07076276e9bfc) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/VFX Demos/Grid.vfx using Guid(c8a5f092146ef7b458b07076276e9bfc) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '235dc83f934666f0d794ca960a21c955') in 0.003319 seconds
+  Import took 0.006907 seconds .
+
+========================================================================
+Received Import Request.
+  Time since last request: 31.478737 seconds.
+  path: Assets/VFX Demos/Grid.vfx
+  artifactKey: Guid(c8a5f092146ef7b458b07076276e9bfc) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/VFX Demos/Grid.vfx using Guid(c8a5f092146ef7b458b07076276e9bfc) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: 'b89c1f42b6be6eeccc5a81fdc5bdd096') in 0.004321 seconds
+  Import took 0.008852 seconds .
+
+========================================================================
+Received Import Request.
+  Time since last request: 0.000824 seconds.
+  path: Assets/VFX Demos/Grid.vfx
+  artifactKey: Guid(c8a5f092146ef7b458b07076276e9bfc) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/VFX Demos/Grid.vfx using Guid(c8a5f092146ef7b458b07076276e9bfc) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: 'b89c1f42b6be6eeccc5a81fdc5bdd096') in 0.003694 seconds
+  Import took 0.007376 seconds .
+
+========================================================================
+Received Import Request.
+  Time since last request: 55.067988 seconds.
+  path: Assets/VFX Demos/Grid.vfx
+  artifactKey: Guid(c8a5f092146ef7b458b07076276e9bfc) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/VFX Demos/Grid.vfx using Guid(c8a5f092146ef7b458b07076276e9bfc) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '40af4f82ed68af6a5dd27bf8242cbeba') in 0.004135 seconds
+  Import took 0.009005 seconds .
+
+========================================================================
+Received Import Request.
+  Time since last request: 0.003434 seconds.
+  path: Assets/VFX Demos/Grid.vfx
+  artifactKey: Guid(c8a5f092146ef7b458b07076276e9bfc) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/VFX Demos/Grid.vfx using Guid(c8a5f092146ef7b458b07076276e9bfc) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '40af4f82ed68af6a5dd27bf8242cbeba') in 0.003886 seconds
+  Import took 0.007917 seconds .
+
+========================================================================
+Received Import Request.
+  Time since last request: 33.768715 seconds.
+  path: Assets/VFX Demos/Grid.vfx
+  artifactKey: Guid(c8a5f092146ef7b458b07076276e9bfc) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/VFX Demos/Grid.vfx using Guid(c8a5f092146ef7b458b07076276e9bfc) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '2e3a18b2ef28e6ac67b9107380487998') in 0.003528 seconds
+  Import took 0.008048 seconds .
+
+========================================================================
+Received Import Request.
+  Time since last request: 0.002417 seconds.
+  path: Assets/VFX Demos/Grid.vfx
+  artifactKey: Guid(c8a5f092146ef7b458b07076276e9bfc) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/VFX Demos/Grid.vfx using Guid(c8a5f092146ef7b458b07076276e9bfc) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '2e3a18b2ef28e6ac67b9107380487998') in 0.004441 seconds
+  Import took 0.008556 seconds .
+
+========================================================================
+Received Import Request.
+  Time since last request: 2.904222 seconds.
+  path: Assets/VFX Demos/Grid.vfx
+  artifactKey: Guid(c8a5f092146ef7b458b07076276e9bfc) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/VFX Demos/Grid.vfx using Guid(c8a5f092146ef7b458b07076276e9bfc) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: 'a34bb48fcb1c78dcef4fbcfaebc223f2') in 0.003592 seconds
+  Import took 0.007732 seconds .
+
+========================================================================
+Received Import Request.
+  Time since last request: 0.006498 seconds.
+  path: Assets/VFX Demos/Grid.vfx
+  artifactKey: Guid(c8a5f092146ef7b458b07076276e9bfc) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/VFX Demos/Grid.vfx using Guid(c8a5f092146ef7b458b07076276e9bfc) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: 'a34bb48fcb1c78dcef4fbcfaebc223f2') in 0.003452 seconds
+  Import took 0.007055 seconds .
+
+========================================================================
+Received Import Request.
+  Time since last request: 49.884307 seconds.
+  path: Assets/VFX Demos/Fireworks.vfx
+  artifactKey: Guid(96ca0b8a9c0f5c948b096dabf520dec3) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/VFX Demos/Fireworks.vfx using Guid(96ca0b8a9c0f5c948b096dabf520dec3) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '396dfb684b2283f07a35960d87447522') in 0.004119 seconds
+  Import took 0.008935 seconds .
+
+========================================================================
+Received Import Request.
+  Time since last request: 0.000162 seconds.
+  path: Assets/VFX Demos/Grid.vfx
+  artifactKey: Guid(c8a5f092146ef7b458b07076276e9bfc) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/VFX Demos/Grid.vfx using Guid(c8a5f092146ef7b458b07076276e9bfc) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '03a62eaf727b9686cdb25a8258c90ebb') in 0.003683 seconds
+  Import took 0.008158 seconds .
+
+========================================================================
+Received Import Request.
+  Time since last request: 9.314212 seconds.
+  path: Assets/VFX Demos/Grid.vfx
+  artifactKey: Guid(c8a5f092146ef7b458b07076276e9bfc) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/VFX Demos/Grid.vfx using Guid(c8a5f092146ef7b458b07076276e9bfc) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '6f9dca5a4f34465c89948f7f2210e7bd') in 0.004218 seconds
+  Import took 0.008633 seconds .
+
+========================================================================
+Received Import Request.
+  Time since last request: 137.944516 seconds.
+  path: Assets/VFX Demos/Grid.vfx
+  artifactKey: Guid(c8a5f092146ef7b458b07076276e9bfc) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/VFX Demos/Grid.vfx using Guid(c8a5f092146ef7b458b07076276e9bfc) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: 'd7c6a8c3634f2d5d560f5cf35d4ae659') in 0.003600 seconds
+  Import took 0.008367 seconds .
+
+========================================================================
+Received Import Request.
+  Time since last request: 0.001475 seconds.
+  path: Assets/VFX Demos/Grid.vfx
+  artifactKey: Guid(c8a5f092146ef7b458b07076276e9bfc) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/VFX Demos/Grid.vfx using Guid(c8a5f092146ef7b458b07076276e9bfc) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: 'd7c6a8c3634f2d5d560f5cf35d4ae659') in 0.003584 seconds
+  Import took 0.007873 seconds .
+
+========================================================================
+Received Import Request.
+  Time since last request: 5.384033 seconds.
+  path: Assets/VFX Demos/Grid.vfx
+  artifactKey: Guid(c8a5f092146ef7b458b07076276e9bfc) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/VFX Demos/Grid.vfx using Guid(c8a5f092146ef7b458b07076276e9bfc) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '2e4cf7d25f2257f0d7d0c36f4b38575b') in 0.003609 seconds
+  Import took 0.008392 seconds .
+
+========================================================================
+Received Import Request.
+  Time since last request: 0.004001 seconds.
+  path: Assets/VFX Demos/Grid.vfx
+  artifactKey: Guid(c8a5f092146ef7b458b07076276e9bfc) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/VFX Demos/Grid.vfx using Guid(c8a5f092146ef7b458b07076276e9bfc) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '2e4cf7d25f2257f0d7d0c36f4b38575b') in 0.003211 seconds
+  Import took 0.007669 seconds .
+
+========================================================================
+Received Import Request.
+  Time since last request: 101.483006 seconds.
+  path: Assets/VFX Demos/Grid.vfx
+  artifactKey: Guid(c8a5f092146ef7b458b07076276e9bfc) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/VFX Demos/Grid.vfx using Guid(c8a5f092146ef7b458b07076276e9bfc) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '2c960299bed41ed3ec9039297ee00831') in 0.004040 seconds
+  Import took 0.009089 seconds .
+
+========================================================================
+Received Import Request.
+  Time since last request: 0.002170 seconds.
+  path: Assets/VFX Demos/Grid.vfx
+  artifactKey: Guid(c8a5f092146ef7b458b07076276e9bfc) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/VFX Demos/Grid.vfx using Guid(c8a5f092146ef7b458b07076276e9bfc) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '2c960299bed41ed3ec9039297ee00831') in 0.003644 seconds
+  Import took 0.007600 seconds .
+
+========================================================================
+Received Import Request.
+  Time since last request: 10.198631 seconds.
+  path: Assets/VFX Demos/Grid.vfx
+  artifactKey: Guid(c8a5f092146ef7b458b07076276e9bfc) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/VFX Demos/Grid.vfx using Guid(c8a5f092146ef7b458b07076276e9bfc) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '992b3674d027d3be368532c4bcb6d80d') in 0.003665 seconds
+  Import took 0.008190 seconds .
+
+========================================================================
+Received Import Request.
+  Time since last request: 0.006555 seconds.
+  path: Assets/VFX Demos/Grid.vfx
+  artifactKey: Guid(c8a5f092146ef7b458b07076276e9bfc) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/VFX Demos/Grid.vfx using Guid(c8a5f092146ef7b458b07076276e9bfc) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '992b3674d027d3be368532c4bcb6d80d') in 0.003540 seconds
+  Import took 0.008134 seconds .
+
+========================================================================
+Received Import Request.
+  Time since last request: 17.677927 seconds.
+  path: Assets/VFX Demos/Grid.vfx
+  artifactKey: Guid(c8a5f092146ef7b458b07076276e9bfc) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/VFX Demos/Grid.vfx using Guid(c8a5f092146ef7b458b07076276e9bfc) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '2381006722a5f2a6a97bef7e51ad1281') in 0.003840 seconds
+  Import took 0.008598 seconds .
+
+========================================================================
+Received Import Request.
+  Time since last request: 24.395992 seconds.
+  path: Assets/VFX Demos/Grid.vfx
+  artifactKey: Guid(c8a5f092146ef7b458b07076276e9bfc) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/VFX Demos/Grid.vfx using Guid(c8a5f092146ef7b458b07076276e9bfc) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '132d8af2c53959954d8b1b619efd6d06') in 0.003551 seconds
+  Import took 0.007650 seconds .
+
+========================================================================
+Received Import Request.
+  Time since last request: 0.005924 seconds.
+  path: Assets/VFX Demos/Grid.vfx
+  artifactKey: Guid(c8a5f092146ef7b458b07076276e9bfc) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/VFX Demos/Grid.vfx using Guid(c8a5f092146ef7b458b07076276e9bfc) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '132d8af2c53959954d8b1b619efd6d06') in 0.003355 seconds
+  Import took 0.007258 seconds .
+
+========================================================================
+Received Import Request.
+  Time since last request: 47.327560 seconds.
+  path: Assets/VFX Demos/Grid.vfx
+  artifactKey: Guid(c8a5f092146ef7b458b07076276e9bfc) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/VFX Demos/Grid.vfx using Guid(c8a5f092146ef7b458b07076276e9bfc) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '1881c2c531a95506b4b15f972957779e') in 0.003517 seconds
+  Import took 0.007898 seconds .
+
+========================================================================
+Received Import Request.
+  Time since last request: 0.007921 seconds.
+  path: Assets/VFX Demos/Grid.vfx
+  artifactKey: Guid(c8a5f092146ef7b458b07076276e9bfc) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/VFX Demos/Grid.vfx using Guid(c8a5f092146ef7b458b07076276e9bfc) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '1881c2c531a95506b4b15f972957779e') in 0.003232 seconds
+  Import took 0.007156 seconds .
+
+========================================================================
+Received Import Request.
+  Time since last request: 64.464005 seconds.
+  path: Assets/VFX Demos/Grid.vfx
+  artifactKey: Guid(c8a5f092146ef7b458b07076276e9bfc) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/VFX Demos/Grid.vfx using Guid(c8a5f092146ef7b458b07076276e9bfc) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '57943f64874c42e16b4d94bba6f932d2') in 0.003431 seconds
+  Import took 0.007696 seconds .
+
+========================================================================
+Received Import Request.
+  Time since last request: 0.002610 seconds.
+  path: Assets/VFX Demos/Grid.vfx
+  artifactKey: Guid(c8a5f092146ef7b458b07076276e9bfc) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/VFX Demos/Grid.vfx using Guid(c8a5f092146ef7b458b07076276e9bfc) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '57943f64874c42e16b4d94bba6f932d2') in 0.003143 seconds
+  Import took 0.007219 seconds .
+
+========================================================================
+Received Import Request.
+  Time since last request: 6.081235 seconds.
+  path: Assets/VFX Demos/Grid.vfx
+  artifactKey: Guid(c8a5f092146ef7b458b07076276e9bfc) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/VFX Demos/Grid.vfx using Guid(c8a5f092146ef7b458b07076276e9bfc) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '666da1bc44fd1632c67549dfe82259e9') in 0.003447 seconds
+  Import took 0.007656 seconds .
+
+========================================================================
+Received Import Request.
+  Time since last request: 0.006498 seconds.
+  path: Assets/VFX Demos/Grid.vfx
+  artifactKey: Guid(c8a5f092146ef7b458b07076276e9bfc) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/VFX Demos/Grid.vfx using Guid(c8a5f092146ef7b458b07076276e9bfc) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '666da1bc44fd1632c67549dfe82259e9') in 0.003359 seconds
+  Import took 0.007109 seconds .
+
+========================================================================
+Received Import Request.
+  Time since last request: 1.793352 seconds.
+  path: Assets/VFX Demos/Grid.vfx
+  artifactKey: Guid(c8a5f092146ef7b458b07076276e9bfc) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/VFX Demos/Grid.vfx using Guid(c8a5f092146ef7b458b07076276e9bfc) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: 'b1b138ef31df11706db66f756379ea3b') in 0.003706 seconds
+  Import took 0.008222 seconds .
+
+========================================================================
+Received Import Request.
+  Time since last request: 0.003395 seconds.
+  path: Assets/VFX Demos/Grid.vfx
+  artifactKey: Guid(c8a5f092146ef7b458b07076276e9bfc) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/VFX Demos/Grid.vfx using Guid(c8a5f092146ef7b458b07076276e9bfc) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: 'b1b138ef31df11706db66f756379ea3b') in 0.003784 seconds
+  Import took 0.008141 seconds .
+
+========================================================================
+Received Import Request.
+  Time since last request: 19.467766 seconds.
+  path: Assets/VFX Demos/Grid.vfx
+  artifactKey: Guid(c8a5f092146ef7b458b07076276e9bfc) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/VFX Demos/Grid.vfx using Guid(c8a5f092146ef7b458b07076276e9bfc) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '9008cf9584062a8babc80e200e95dbb8') in 0.004182 seconds
+  Import took 0.009114 seconds .
+
+========================================================================
+Received Import Request.
+  Time since last request: 0.003123 seconds.
+  path: Assets/VFX Demos/Grid.vfx
+  artifactKey: Guid(c8a5f092146ef7b458b07076276e9bfc) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/VFX Demos/Grid.vfx using Guid(c8a5f092146ef7b458b07076276e9bfc) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '9008cf9584062a8babc80e200e95dbb8') in 0.003346 seconds
+  Import took 0.007537 seconds .
+
+========================================================================
+Received Import Request.
+  Time since last request: 8.786254 seconds.
+  path: Assets/VFX Demos/Grid.vfx
+  artifactKey: Guid(c8a5f092146ef7b458b07076276e9bfc) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/VFX Demos/Grid.vfx using Guid(c8a5f092146ef7b458b07076276e9bfc) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '2623a015a40c6a73e7bac5d764a19b10') in 0.003639 seconds
+  Import took 0.008811 seconds .
+
+========================================================================
+Received Import Request.
+  Time since last request: 0.005912 seconds.
+  path: Assets/VFX Demos/Grid.vfx
+  artifactKey: Guid(c8a5f092146ef7b458b07076276e9bfc) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/VFX Demos/Grid.vfx using Guid(c8a5f092146ef7b458b07076276e9bfc) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '2623a015a40c6a73e7bac5d764a19b10') in 0.003162 seconds
+  Import took 0.007325 seconds .
+
+========================================================================
+Received Import Request.
+  Time since last request: 1.277283 seconds.
+  path: Assets/VFX Demos/Grid.vfx
+  artifactKey: Guid(c8a5f092146ef7b458b07076276e9bfc) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/VFX Demos/Grid.vfx using Guid(c8a5f092146ef7b458b07076276e9bfc) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '0bbfcf512ffb5a60347821238f88c6d2') in 0.003822 seconds
+  Import took 0.008571 seconds .
+
+========================================================================
+Received Import Request.
+  Time since last request: 0.003557 seconds.
+  path: Assets/VFX Demos/Grid.vfx
+  artifactKey: Guid(c8a5f092146ef7b458b07076276e9bfc) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/VFX Demos/Grid.vfx using Guid(c8a5f092146ef7b458b07076276e9bfc) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '0bbfcf512ffb5a60347821238f88c6d2') in 0.003187 seconds
+  Import took 0.007016 seconds .
+
+========================================================================
+Received Import Request.
+  Time since last request: 27.967990 seconds.
+  path: Assets/VFX Demos/Grid.vfx
+  artifactKey: Guid(c8a5f092146ef7b458b07076276e9bfc) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/VFX Demos/Grid.vfx using Guid(c8a5f092146ef7b458b07076276e9bfc) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: 'c756c92763ef92282328e5523197572f') in 0.003538 seconds
+  Import took 0.008255 seconds .
+
+========================================================================
+Received Import Request.
+  Time since last request: 0.000833 seconds.
+  path: Assets/VFX Demos/Grid.vfx
+  artifactKey: Guid(c8a5f092146ef7b458b07076276e9bfc) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/VFX Demos/Grid.vfx using Guid(c8a5f092146ef7b458b07076276e9bfc) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: 'c756c92763ef92282328e5523197572f') in 0.003090 seconds
+  Import took 0.006974 seconds .
+
+========================================================================
+Received Import Request.
+  Time since last request: 11.794066 seconds.
+  path: Assets/VFX Demos/Grid.vfx
+  artifactKey: Guid(c8a5f092146ef7b458b07076276e9bfc) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/VFX Demos/Grid.vfx using Guid(c8a5f092146ef7b458b07076276e9bfc) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '3f1d9f9cd42518aa688f6fba9ad28c6c') in 0.003526 seconds
+  Import took 0.007917 seconds .
+
+========================================================================
+Received Import Request.
+  Time since last request: 0.002528 seconds.
+  path: Assets/VFX Demos/Grid.vfx
+  artifactKey: Guid(c8a5f092146ef7b458b07076276e9bfc) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/VFX Demos/Grid.vfx using Guid(c8a5f092146ef7b458b07076276e9bfc) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '3f1d9f9cd42518aa688f6fba9ad28c6c') in 0.003231 seconds
+  Import took 0.007323 seconds .
+
+========================================================================
+Received Import Request.
+  Time since last request: 7.736045 seconds.
+  path: Assets/VFX Demos/Grid.vfx
+  artifactKey: Guid(c8a5f092146ef7b458b07076276e9bfc) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/VFX Demos/Grid.vfx using Guid(c8a5f092146ef7b458b07076276e9bfc) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '970f3ef7ce84b964d532e8d073f3a190') in 0.004195 seconds
+  Import took 0.008612 seconds .
+
+========================================================================
+Received Import Request.
+  Time since last request: 0.001340 seconds.
+  path: Assets/VFX Demos/Grid.vfx
+  artifactKey: Guid(c8a5f092146ef7b458b07076276e9bfc) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/VFX Demos/Grid.vfx using Guid(c8a5f092146ef7b458b07076276e9bfc) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '970f3ef7ce84b964d532e8d073f3a190') in 0.003602 seconds
+  Import took 0.008008 seconds .
+
+========================================================================
+Received Import Request.
+  Time since last request: 43.034080 seconds.
+  path: Assets/VFX Demos/Grid.vfx
+  artifactKey: Guid(c8a5f092146ef7b458b07076276e9bfc) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/VFX Demos/Grid.vfx using Guid(c8a5f092146ef7b458b07076276e9bfc) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '8ee6289d246b66882679b74062fe72a3') in 0.003586 seconds
+  Import took 0.008712 seconds .
+
+========================================================================
+Received Import Request.
+  Time since last request: 0.001124 seconds.
+  path: Assets/VFX Demos/Grid.vfx
+  artifactKey: Guid(c8a5f092146ef7b458b07076276e9bfc) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/VFX Demos/Grid.vfx using Guid(c8a5f092146ef7b458b07076276e9bfc) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '8ee6289d246b66882679b74062fe72a3') in 0.003322 seconds
+  Import took 0.007293 seconds .
+
+========================================================================
+Received Import Request.
+  Time since last request: 4.120701 seconds.
+  path: Assets/VFX Demos/Grid.vfx
+  artifactKey: Guid(c8a5f092146ef7b458b07076276e9bfc) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/VFX Demos/Grid.vfx using Guid(c8a5f092146ef7b458b07076276e9bfc) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '8a73586db1eedb571dd7025044394b64') in 0.003586 seconds
+  Import took 0.008021 seconds .
+
+========================================================================
+Received Import Request.
+  Time since last request: 0.005172 seconds.
+  path: Assets/VFX Demos/Grid.vfx
+  artifactKey: Guid(c8a5f092146ef7b458b07076276e9bfc) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/VFX Demos/Grid.vfx using Guid(c8a5f092146ef7b458b07076276e9bfc) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '8a73586db1eedb571dd7025044394b64') in 0.003515 seconds
+  Import took 0.007586 seconds .
+
+========================================================================
+Received Import Request.
+  Time since last request: 1.953628 seconds.
+  path: Assets/VFX Demos/Grid.vfx
+  artifactKey: Guid(c8a5f092146ef7b458b07076276e9bfc) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/VFX Demos/Grid.vfx using Guid(c8a5f092146ef7b458b07076276e9bfc) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '51449d1812c4ef37fb1ec209da22374c') in 0.003528 seconds
+  Import took 0.007871 seconds .
+
+========================================================================
+Received Import Request.
+  Time since last request: 0.004774 seconds.
+  path: Assets/VFX Demos/Grid.vfx
+  artifactKey: Guid(c8a5f092146ef7b458b07076276e9bfc) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/VFX Demos/Grid.vfx using Guid(c8a5f092146ef7b458b07076276e9bfc) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '51449d1812c4ef37fb1ec209da22374c') in 0.003237 seconds
+  Import took 0.007190 seconds .
+
+========================================================================
+Received Import Request.
+  Time since last request: 12.019607 seconds.
+  path: Assets/VFX Demos/Grid.vfx
+  artifactKey: Guid(c8a5f092146ef7b458b07076276e9bfc) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/VFX Demos/Grid.vfx using Guid(c8a5f092146ef7b458b07076276e9bfc) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '89b95b1e82113366d7dc7db20888d7b6') in 0.003527 seconds
+  Import took 0.007752 seconds .
+
+========================================================================
+Received Import Request.
+  Time since last request: 0.005639 seconds.
+  path: Assets/VFX Demos/Grid.vfx
+  artifactKey: Guid(c8a5f092146ef7b458b07076276e9bfc) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/VFX Demos/Grid.vfx using Guid(c8a5f092146ef7b458b07076276e9bfc) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '89b95b1e82113366d7dc7db20888d7b6') in 0.003208 seconds
+  Import took 0.006818 seconds .
+
+========================================================================
+Received Import Request.
+  Time since last request: 67.763326 seconds.
+  path: Assets/VFX Demos/Grid.vfx
+  artifactKey: Guid(c8a5f092146ef7b458b07076276e9bfc) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/VFX Demos/Grid.vfx using Guid(c8a5f092146ef7b458b07076276e9bfc) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: 'a0c035d78b8136764dd1b074fed221aa') in 0.003723 seconds
+  Import took 0.008713 seconds .
+
+========================================================================
+Received Import Request.
+  Time since last request: 0.005032 seconds.
+  path: Assets/VFX Demos/Grid.vfx
+  artifactKey: Guid(c8a5f092146ef7b458b07076276e9bfc) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/VFX Demos/Grid.vfx using Guid(c8a5f092146ef7b458b07076276e9bfc) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: 'a0c035d78b8136764dd1b074fed221aa') in 0.003517 seconds
+  Import took 0.007742 seconds .
+
+========================================================================
+Received Import Request.
+  Time since last request: 34.470462 seconds.
+  path: Assets/VFX Demos/Grid.vfx
+  artifactKey: Guid(c8a5f092146ef7b458b07076276e9bfc) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/VFX Demos/Grid.vfx using Guid(c8a5f092146ef7b458b07076276e9bfc) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '1de7f408b6ea351dc17b608fcf7dd937') in 0.003532 seconds
+  Import took 0.007696 seconds .
+
+========================================================================
+Received Import Request.
+  Time since last request: 0.009407 seconds.
+  path: Assets/VFX Demos/Grid.vfx
+  artifactKey: Guid(c8a5f092146ef7b458b07076276e9bfc) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/VFX Demos/Grid.vfx using Guid(c8a5f092146ef7b458b07076276e9bfc) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '1de7f408b6ea351dc17b608fcf7dd937') in 0.003552 seconds
+  Import took 0.007541 seconds .
+
